@@ -1,4 +1,3 @@
-cat <<'EOF' > README.md
 #  Clínica Vida Clara — Health API
 
 Projeto **Node.js** de simulação de uma API para área de saúde, criado para testes locais, observabilidade manual e deploy em ambientes como **CPS1**.
